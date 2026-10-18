@@ -37,3 +37,5 @@ body:has(.cinematic-dialogue) .game-canvas .tools button{font-size:clamp(7px,.65
 .game-canvas .cinematic-dialogue .cinematic-actions .primary{width:auto;min-width:13.4cqw;min-height:3.75cqw;font-size:.85cqw;padding:1.1cqw 1.9cqw;border-width:.13cqw;border-radius:1.6cqw .4cqw 1.6cqw .4cqw;outline-offset:.2cqw;letter-spacing:.1cqw}
 .game-canvas .cinematic-dialogue .dialogue-dots{padding:.6cqw .8cqw;gap:.65cqw}
 .game-canvas .cinematic-dialogue .step{width:.4cqw;height:.4cqw}
+/* A continuous ornate border, without the protruding speech-bubble tail. */
+.game-canvas .cinematic-dialogue .gothic-bubble:before{display:none!important;content:none!important}
