@@ -14,3 +14,6 @@ body:has(.victory-celebration) .game-canvas header,body:has(.victory-celebration
 
 .victory-celebration #manual-code{top:865px}
 .victory-celebration .golden-key{display:block;margin:0 auto;cursor:default}.victory-celebration .golden-key:hover{filter:drop-shadow(0 0 14px #ffe09755)}.game-canvas .victory-celebration .victory-actions{top:760px}
+/* Centre in the actual visible viewport, not a larger mobile layout viewport. */
+.game-viewport{inset:auto;left:var(--visible-left,0px);top:var(--visible-top,0px);width:var(--visible-width,100%);height:var(--visible-height,100%)}
+.game-canvas .cinematic-conversation{left:52%;right:5%;width:auto;max-width:none}
