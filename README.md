@@ -1,5 +1,7 @@
 # Dracula's Monster Check
 
+[Play the published game](https://natalifilonovets.github.io/halloween1/) · [16:9 embed preview](https://natalifilonovets.github.io/halloween1/embed-preview.html)
+
 Open `index.html` in a modern browser. No build step or internet connection is required.
 
 For a local preview:
@@ -67,7 +69,7 @@ Every screen now uses one logical 1600×900 canvas, uniformly fitted to the actu
 
 The supplied `assets/3ad26a70-5601-48f9-bd42-0fc684b35cbf.png` is the current Dracula host. Its original file and the former host image are both retained.
 
-For GitHub Pages publish the extracted root files and complete assets directory, including `viewport.css`, `viewport.js` and `.nojekyll`. See `EMBED_GENIALLY.txt` for exact setup and iframe markup. `embed-preview.html` provides a local 16:9 iframe preview. No repository has been published and the actual Genially editor has not been tested; local iframe rendering and game interactions were verified.
+For GitHub Pages publish the extracted root files and complete assets directory, including `viewport.css`, `viewport.js` and `.nojekyll`. See `EMBED_GENIALLY.txt` for exact setup and iframe markup. `embed-preview.html` provides a local 16:9 iframe preview. Published on GitHub Pages at https://natalifilonovets.github.io/halloween1/. Local iframe rendering and interactions were verified; actual insertion into the Genially editor has not been performed.
 
 ## Cinematic rescue backgrounds
 

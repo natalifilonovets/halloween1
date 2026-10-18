@@ -15,9 +15,9 @@ No third-party CDN, server, build step or font download is required.
 The original 16:9 stage scales uniformly; portrait screens have empty space above/below.
 For comfortable reading on a phone, rotate the device to landscape or enlarge the Genially embed.
 Completion still sends HOTEL_MISSION_COMPLETED to the parent. Genially does not automatically
-handle this event: the local award and MONSTER1 code remain available.
+handle this event: the local golden-key reward remains visible.
 Some browsers restrict localStorage or clipboard inside third-party frames; the game still runs,
-but persistent saving or automatic copying can be unavailable. The code remains visible.
+but persistent saving or automatic copying can be unavailable. The local reward remains visible.
 Speech playback depends on a local English voice installed on the learner's device.
 
 Official setup references:
